@@ -1,4 +1,5 @@
 public class Analyzer
+	//Finished Code
 	{
 	static int totalCount;
 	static int totalCountqqq;

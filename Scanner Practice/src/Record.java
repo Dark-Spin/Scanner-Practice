@@ -1,4 +1,5 @@
 public class Record
+	//Finished Code
 	{
 	private String letterCode;
 	private int numberCode;
